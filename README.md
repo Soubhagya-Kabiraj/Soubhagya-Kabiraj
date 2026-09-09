@@ -106,7 +106,9 @@
 ### 🏆 Achievements & Badges
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Soubhagya-Kabiraj&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  <a href="https://github.com/Soubhagya-Kabiraj">
+    <img src="https://my-github-achievements.vercel.app/api/achievements?username=Soubhagya-Kabiraj&achievements=quickdraw" alt="GitHub Achievements - Quickdraw" height="120" />
+  </a>
 </div>
 
 ---
