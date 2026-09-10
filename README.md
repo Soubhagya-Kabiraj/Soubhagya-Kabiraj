@@ -21,7 +21,7 @@
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Projects.
 
 | Project | Tech Stack | Highlights | Repository |
 | :--- | :--- | :--- | :---: |
