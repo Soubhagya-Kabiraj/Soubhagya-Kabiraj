@@ -45,7 +45,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Neraj Lal**, a Full Stack Developer focused on building modern web applications, Shopify apps, SaaS products, and AI-powered solutions.
+I'm **Soubhagya Kabiraj**, a Full Stack Developer focused on building modern web applications, Shopify apps, SaaS products, ML Projects and AI-powered solutions.
 
 I enjoy taking an idea from **concept → architecture → development → deployment → production**.
 
@@ -54,7 +54,7 @@ I enjoy taking an idea from **concept → architecture → development → deplo
 - 🤖 AI & LLM Integrations
 - 🏗️ SaaS & Multi-Tenant Applications
 - ☁️ Cloud Deployment & Server Management
-- ⚡ Laravel, PHP, JavaScript & React
+- ⚡ Django, Flask, Node.js, Next.js, JavaScript & React.js
 - 🐍 Exploring Python & Django
 
 > **Build things. Break things. Learn things. Ship things.**
@@ -62,7 +62,7 @@ I enjoy taking an idea from **concept → architecture → development → deplo
 </td>
 <td width="35%" align="center" valign="middle">
 
-<img src="https://skillicons.dev/icons?i=python,django,javascript,typescript,react,nextjs,nodejs,mysql,sqlite,mongodb,redis,docker,git,github,linux,jsp,servlet,nginx&perline=5&theme=dark" width="100%" alt="Tech stack">
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,sklearn,tensorflow,javascript,typescript,react,nextjs,nodejs,mysql,sqlite,mongodb,redis,docker,git,github,linux&perline=5&theme=dark" width="100%" alt="Tech Stack">
 
 </td>
 </tr>
