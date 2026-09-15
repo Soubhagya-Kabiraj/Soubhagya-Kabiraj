@@ -68,7 +68,7 @@ I love transforming raw concepts into robust, production-grade applications — 
 
 ## 🛠️ Technical skill
 
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,sklearn,tensorflow,opencv,java,javascript,typescript,react,nextjs,nodejs,express,mysql,postgresql,sqlite,mongodb,redis,docker,aws,postman,vscode,git,github&perline=5&theme=dark" width="100%" alt="Tech Stack">
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,sklearn,tensorflow,opencv,java,javascript,typescript,react,nextjs,nodejs,express,mysql,postgresql,sqlite,mongodb,redis,docker,aws,postman,vscode,git,github&perline=5&theme=dark" width="90%" alt="Tech Stack">
 
 </td>
 </tr>
@@ -76,9 +76,9 @@ I love transforming raw concepts into robust, production-grade applications — 
 
 ---
 
-<div align="center">
+<div align="left">
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects 
 
 <table width="100%">
 <tr>
@@ -149,12 +149,6 @@ A Django-based retail management platform for managing customers, products, sale
 
 </tr>
 </table>
-
-<br>
-
-<a href="https://github.com/Soubhagya-Kabiraj?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore%20All%20Projects-161B22?style=for-the-badge&logo=github&logoColor=EF93C4">
-</a>
 
 </div>
 
