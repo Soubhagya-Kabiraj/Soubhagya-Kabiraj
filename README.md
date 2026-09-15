@@ -1,12 +1,12 @@
 <div align="left">
 
-<img align="right" width="250" hspace="15" alt="Soubhagya Kabiraj" src="https://github.com/user-attachments/assets/ebe66c7c-00fd-48d0-bacf-dacf00f1138c" />
-
 <h1>Hey there, I'm Soubhagya Kabiraj 👋</h1>
 
 <a href="https://github.com/Soubhagya-Kabiraj/">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=EF93C4&center=false&vCenter=true&width=500&lines=Full+Stack+Developer;Laravel+%7C+Shopify+Specialist;AI+%26+LLM+Integrations;Building+SaaS+%26+Production+Web+Apps;Turning+Ideas+Into+Working+Products" alt="Typing SVG">
 </a>
+
+<img align="right" width="250" hspace="15" alt="Soubhagya Kabiraj" src="https://github.com/user-attachments/assets/c5f1b796-594f-4313-a254-e5efcd71618e" />
 
 <p>
   <a href="https://portfolio-me-ycdu.onrender.com/">
