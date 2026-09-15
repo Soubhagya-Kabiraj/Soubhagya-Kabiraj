@@ -1,118 +1,92 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0077B5&center=true&vcenter=true&width=600&lines=Hi+%F0%9F%90%8B+I'm+Soubhagya+Kabiraj;Backend+%26+Software+Engineer;AI+%26+Full-Stack+Developer" alt="Typing SVG" />
+<div align="left">
 
-  <p align="center">
-    <b>Final-Year Information Technology Student</b> with a strong focus on building scalable backend architectures, high-performance REST APIs, and Machine Learning applications.
-  </p>
+<img align="right" width="250" hspace="15" alt="Soubhagya Kabiraj" src="https://github.com/user-attachments/assets/ebe66c7c-00fd-48d0-bacf-dacf00f1138c" />
 
-  <a href="https://linkedin.com/in/soubhagya-kabiraj-a0069228b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<h1>Hey there, I'm Soubhagya Kabiraj 👋</h1>
+
+<a href="https://github.com/Soubhagya-Kabiraj/">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=EF93C4&center=false&vCenter=true&width=500&lines=Full+Stack+Developer;Laravel+%7C+Shopify+Specialist;AI+%26+LLM+Integrations;Building+SaaS+%26+Production+Web+Apps;Turning+Ideas+Into+Working+Products" alt="Typing SVG">
+</a>
+
+<p>
+  <a href="https://portfolio-me-ycdu.onrender.com/">
+    <img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=google-chrome&logoColor=EF93C4" alt="Portfolio">
   </a>
-  <a href="mailto:aec.it.soubhagya@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://github.com/Soubhagya-Kabiraj/">
+    <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=EF93C4" alt="GitHub">
   </a>
-  <a href="https://github.com/Soubhagya-Kabiraj" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://www.linkedin.com/in/soubhagya-kabiraj-a0069228b/">
+    <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=EF93C4" alt="LinkedIn">
   </a>
-  <a href="https://instagram.com/postobhaatey" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://www.instagram.com/postobhaatey?stkn=MWNvOXhyY2c0dXdraw==">
+    <img src="https://img.shields.io/badge/Instagram-161B22?style=for-the-badge&logo=instagram&logoColor=FF69B4" alt="Instagram">
   </a>
+</p>
+
+<p>
+  <a href="https://github.com/Soubhagya-Kabiraj?tab=followers">
+    <img src="https://img.shields.io/github/followers/nerajlal?style=for-the-badge&label=FOLLOWERS&color=EF93C4&labelColor=161B22" alt="GitHub followers">
+  </a>
+  <a href="https://github.com/Soubhagya-Kabiraj?tab=repositories">
+    <img src="https://img.shields.io/github/stars/nerajlal?style=for-the-badge&label=STARS&color=F8BBD0&labelColor=161B22" alt="GitHub stars">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=nerajlal&style=for-the-badge&label=PROFILE%20VIEWS&color=FF69B4&labelColor=161B22" alt="Profile views">
+</p>
+
+<br clear="both">
+
 </div>
 
 ---
 
-### 🚀 Featured Projects
+<table align="center" width="100%">
+<tr>
+<td width="65%" valign="top">
 
-| Project | Tech Stack | Highlights | Repository |
-| :--- | :--- | :--- | :---: |
-| **Resume IQ** <br/> `AI Resume Analyzer` | `Python` `Django` `Scikit-Learn` `Pandas` | • Engineered automated resume parsing & text extraction pipelines.<br/>• Integrated ML models for career trajectory & job role prediction.<br/>• Developed keyword score optimization algorithms against target JDs. | [<img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/>](https://github.com/Soubhagya-Kabiraj/Resume-IQ) |
-| **Market Wave** <br/> `CRM & Analytics Platform` | `Django REST` `PostgreSQL` `JavaScript` | • Built real-time analytics dashboards for sales metrics & forecasting.<br/>• Implemented dynamic customer pipeline management & interaction logs.<br/>• Architected secure, scalable RESTful API endpoints. | [<img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/>](https://github.com/Soubhagya-Kabiraj/Market-Wave) |
-| **Shop Ease** <br/> `Full-Stack E-Commerce` | `Django` `MySQL` `JavaScript` `Bootstrap` | • Integrated session-based auth & cart persistence logic.<br/>• Structured automated order processing and real-time status updates.<br/>• Designed fully responsive, mobile-first frontend interfaces. | [<img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/>](https://github.com/Soubhagya-Kabiraj/Shop-Ease) |
+## 👨‍💻 About Me
 
----
+I'm **Neraj Lal**, a Full Stack Developer focused on building modern web applications, Shopify apps, SaaS products, and AI-powered solutions.
 
-### 💻 Technical Expertise
+I enjoy taking an idea from **concept → architecture → development → deployment → production**.
 
-<details open>
-  <summary><b>Languages & Core Fundamentals</b></summary>
-  <br/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
-</details>
+- 🚀 Full Stack Web Development
+- 🛍️ Shopify App Development
+- 🤖 AI & LLM Integrations
+- 🏗️ SaaS & Multi-Tenant Applications
+- ☁️ Cloud Deployment & Server Management
+- ⚡ Laravel, PHP, JavaScript & React
+- 🐍 Exploring Python & Django
 
-<br/>
+> **Build things. Break things. Learn things. Ship things.**
 
-<details open>
-  <summary><b>Backend Development & APIs</b></summary>
-  <br/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Django_REST-A30000?style=for-the-badge&logo=django&logoColor=white" alt="Django REST" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white" alt="Gunicorn" />
-  <img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black" alt="Apache Tomcat" />
-</details>
+</td>
+<td width="35%" align="center" valign="middle">
 
-<br/>
+<img src="https://skillicons.dev/icons?i=python,django,javascript,typescript,react,nextjs,nodejs,mysql,sqlite,mongodb,redis,docker,git,github,linux,jsp,servlet,nginx&perline=5&theme=dark" width="100%" alt="Tech stack">
 
-<details open>
-  <summary><b>Machine Learning & Data Engineering</b></summary>
-  <br/>
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-</details>
+</td>
+</tr>
+</table>
 
-<br/>
 
-<details open>
-  <summary><b>Databases, Caching & Cloud Infrastructure</b></summary>
-  <br/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
-</details>
-
----
-
-### 📊 Github Metrics
+<br><br>
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Soubhagya-Kabiraj&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="175" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soubhagya-Kabiraj&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="175" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Soubhagya-Kabiraj&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Soubhagya-Kabiraj/Soubhagya-Kabiraj/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Soubhagya-Kabiraj/Soubhagya-Kabiraj/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/Soubhagya-Kabiraj/Soubhagya-Kabiraj/output/github-contribution-grid-snake.svg" width="90%" alt="GitHub Contribution Snake">
+</picture>
+
 </div>
 
----
-
-### 🏆 Achievements & Badges
+<br>
 
 <div align="center">
-  <a href="https://github.com/Soubhagya-Kabiraj">
-    <img src="https://my-github-achievements.vercel.app/api/achievements?username=Soubhagya-Kabiraj&achievements=quickdraw" alt="GitHub Achievements - Quickdraw" height="120" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Soubhagya-Kabiraj&label=Profile%20Views&color=0077B5&style=flat-square" alt="Profile Views" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&text=Keep%20Building%20%E2%80%A2%20Keep%20Learning%20%E2%80%A2%20Keep%20Shipping&fontSize=19&fontColor=ffffff&fontAlignY=65&color=gradient&customColorList=6,12,20,24" width="100%" alt="Waving footer">
+<br>
+<sub><b>© Neraj Lal</b> · Full Stack Developer · Shopify · AI · SaaS</sub>
 </div>
