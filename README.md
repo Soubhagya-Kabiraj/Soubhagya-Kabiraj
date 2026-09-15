@@ -76,7 +76,7 @@ I love transforming raw concepts into robust, production-grade applications — 
 
 ---
 
-<div align="left">
+<div align="center">
 
 ## 🚀 Featured Projects 
 
