@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=EF93C4&center=false&vCenter=true&width=500&lines=Full+Stack+Developer;Python+%26+Django+Enthusiast;Machine+Learning+%26+AI+Integrations;Exploring+Node.js+%26+Next.js;Building+SaaS+%26+Production+Web+Apps" alt="Typing SVG">
 </a>
 
-<img align="right" width="230" hspace="15" alt="Soubhagya Kabiraj" src="https://github.com/user-attachments/assets/c5f1b796-594f-4313-a254-e5efcd71618e" />
+<img align="right" width="230" hspace="15" alt="Soubhagya Kabiraj" src="https://github.com/user-attachments/assets/7962c599-b174-4547-979a-e6af1587c9dc" />
 
 <p>
   <a href="https://portfolio-me-ycdu.onrender.com/">
