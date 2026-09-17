@@ -34,7 +34,7 @@
 </p>
 
 <p>
-  <a href="https://leetcode.com/u/Soubhagya-Kabiraj/">
+  <a href="https://leetcode.com/u/rJ2AcTE5sQ/">
   <img src="https://img.shields.io/badge/LeetCode-100%2B%20Problems-161B22?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode 100+ Problems">
 </a>
 </p>
