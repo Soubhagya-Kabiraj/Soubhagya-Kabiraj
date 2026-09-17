@@ -9,7 +9,7 @@
 <img align="right" width="230" hspace="15" alt="Soubhagya Kabiraj" src="https://github.com/user-attachments/assets/7962c599-b174-4547-979a-e6af1587c9dc" />
 
 <p>
-  <a href="https://portfolio-me-ycdu.onrender.com/">
+  <a href="https://my-portfolio-2cdu.onrender.com/">
     <img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=google-chrome&logoColor=00E5FF" alt="Portfolio">
   </a>
   <a href="https://github.com/Soubhagya-Kabiraj/">
