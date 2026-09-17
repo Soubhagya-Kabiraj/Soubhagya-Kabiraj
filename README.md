@@ -90,7 +90,7 @@ I love transforming raw concepts into robust, production-grade applications — 
 
 An edge-AI solution developed for **Smart India Hackathon 2026 (SIH26174)** to recognize humans, detect activities, and understand interactions in microgravity environments using lightweight computer vision and multimodal AI.
 
-**Tech:** Python · Computer Vision · Machine Learning · AI · Edge AI
+> **Tech:** Python · OpenCV · Machine Learning · AI · Edge AI
 
 <a href="https://github.com/Soubhagya-Kabiraj">
   <img src="https://img.shields.io/badge/View%20Project-161B22?style=for-the-badge&logo=github&logoColor=EF93C4">
@@ -105,7 +105,7 @@ An edge-AI solution developed for **Smart India Hackathon 2026 (SIH26174)** to r
 
 An AI-powered Django application that analyzes resumes, predicts suitable job roles, calculates ATS scores, identifies missing skills, and provides personalized recommendations.
 
-**Tech:** Python · Django · Scikit-learn · Pandas · SQLite
+> **Tech:** Python · Django · Scikit-learn · Pandas · SQLite
 
 <a href="https://github.com/Soubhagya-Kabiraj/Resume-IQ">
   <img src="https://img.shields.io/badge/View%20Project-161B22?style=for-the-badge&logo=github&logoColor=EF93C4">
@@ -124,7 +124,7 @@ An AI-powered Django application that analyzes resumes, predicts suitable job ro
 
 A full-stack e-commerce application featuring product browsing, user authentication, cart management, order workflows, and a responsive user interface.
 
-**Tech:** Python · Django · SQLite · HTML · CSS · JavaScript
+> **Tech:** Python · Django · SQLite · HTML · CSS · JavaScript
 
 <a href="https://github.com/Soubhagya-Kabiraj">
   <img src="https://img.shields.io/badge/View%20Project-161B22?style=for-the-badge&logo=github&logoColor=EF93C4">
@@ -139,7 +139,7 @@ A full-stack e-commerce application featuring product browsing, user authenticat
 
 A Django-based retail management platform for managing customers, products, sales, and business analytics through a clean and responsive dashboard.
 
-**Tech:** Python · Django · MySQL · Bootstrap · JavaScript
+> **Tech:** Python · Django · MySQL · Bootstrap · JavaScript
 
 <a href="https://github.com/Soubhagya-Kabiraj/Market-Wave_Retail_CRM_Analytics_Platform">
   <img src="https://img.shields.io/badge/View%20Project-161B22?style=for-the-badge&logo=github&logoColor=EF93C4">
