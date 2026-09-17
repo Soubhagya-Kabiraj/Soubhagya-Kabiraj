@@ -103,7 +103,7 @@ An edge-AI solution developed for **Smart India Hackathon 2026 (SIH26174)** to r
 ### 🤖 ResumeIQ
 **AI Resume Screening & Job Recommendation System**
 
-An AI-powered Django application that analyzes resumes, predicts suitable job roles, calculates ATS scores, identifies missing skills, and provides personalized recommendations.
+An AI-powered Django application that analyzes resumes, predicts suitable job roles, calculates ATS scores, identifies missing skills, and provides personalized recommendations as per ML.
 
 > **Tech:** Python · Django · Scikit-learn · Pandas · SQLite
 
